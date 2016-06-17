@@ -25,3 +25,15 @@ ul {
   font-size: 1.5em;
   font-weight: bold;
 }
+.create-col{
+  width: 25%;
+  text-align: center;
+  padding-left: 0.9375rem;
+  padding-right: 0.9375rem;
+}
+.create-three-col{
+  width: 33%;
+  text-align: center;
+  padding-left: 0.9375rem;
+  padding-right: 0.9375rem;
+}
