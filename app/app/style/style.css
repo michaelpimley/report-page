@@ -8,6 +8,15 @@ ul {
   font-weight: bold;
   font-size: 2em;
 }
+.colorView{
+  position: relative;
+  display: block;
+  padding: .75rem 1.25rem;
+  margin-bottom: -1px;
+  background-color: #fff;
+  border: 1px solid #ddd; 
+  background-color: #eceeef;
+}
 .second-text{
   font-size: 1.5em;
 }
