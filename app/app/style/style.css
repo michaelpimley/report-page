@@ -4,9 +4,18 @@ ul {
 .center-block{
   float: none;
 }
+.custom-modal{
+  width: 90%;
+}
 .big-text{
   font-weight: bold;
   font-size: 2.5em;
+}
+.map_container{
+  position: absolute;
+  height: 95%;
+  width: 100%;
+  margin-top: -20px;
 }
 .big-text-too{
   font-weight: bold;
